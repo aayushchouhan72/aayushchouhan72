@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Aayush Chouhan
 
-<!--
-**aayushchouhan72/aayushchouhan72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan72&color=blueviolet" alt="Profile views" />
 
-Here are some ideas to get you started:
+I am a second-year B.Tech Computer Science and Engineering student with a strong passion for building scalable full-stack web applications and exploring artificial intelligence workflows. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 I’m currently deepening my knowledge in **Data Structures, Algorithms, and Machine Learning**.
+- 💡 Active member of the tech team at **Echelon Dev Society**, contributing to hackathons and community technical events.
+- 🎯 Always eager to learn, build, and collaborate on innovative software projects.
+
+---
+
+### 💻 Tech Stack
+- **Languages:** JavaScript, Python, HTML5, CSS3
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases & Tools:** MongoDB, Socket.io, Pandas, Git, Render
+
+---
+
+### 📂 Featured Projects
+- **Real-Time Chat Application:** A full-stack communication platform utilizing React, Node.js, and Socket.io to manage real-time asynchronous messaging states.
+- **Recurring Deposit Banking Application:** A financial management tool featuring custom registration workflows and interactive form handling built with React.
+- **PromptCraft:** A dedicated web portal focused on prompt engineering concepts and documentation, deployed via Render.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushchouhan72&show_icons=true&theme=radical&hide_border=true" alt="Aayush's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushchouhan72&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
