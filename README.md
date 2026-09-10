@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan72&color=blueviolet" alt="Profile views" />
 
-I am a second-year B.Tech Computer Science and Engineering student with a strong passion for building scalable full-stack web applications and exploring artificial intelligence workflows. 
+I am a Third-year B.Tech Computer Science and Engineering student with a strong passion for building scalable full-stack web applications and exploring artificial intelligence workflows. 
 
 ---
 
