@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Aayush Chouhan
 
-<img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan72&color=blueviolet" alt="Profile views" />
+<img align="right" src="https://www.linkedin.com/in/aayush-chouhan-2041b5339/&color=blueviolet" alt="Profile views" />
 
 I am a Third-year B.Tech Computer Science and Engineering student with a strong passion for building scalable full-stack web applications and exploring artificial intelligence workflows. 
-
 ---
 
 ### 🚀 About Me
@@ -14,7 +13,7 @@ I am a Third-year B.Tech Computer Science and Engineering student with a strong 
 ---
 
 ### 💻 Tech Stack
-- **Languages:** JavaScript, Python, HTML5, CSS3
+- **Languages:** JavaScript, Python, HTML5
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Databases & Tools:** MongoDB, Socket.io, Pandas, Git, Render
@@ -28,7 +27,7 @@ I am a Third-year B.Tech Computer Science and Engineering student with a strong 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushchouhan72&show_icons=true&theme=radical&hide_border=true" alt="Aayush's GitHub Stats" />
 </p>
